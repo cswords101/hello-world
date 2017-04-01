@@ -1,5 +1,10 @@
 # hello-world
-Various code worked on during first year of computer science in NUIG
+//Various code worked on during first year of computer science in NUIG
+//
+
+
+// 1. Program to write a data file of balances and read that data into arrays/structures then print the balances on the screen, then print just the accounts with negative balances on the screen 
+//
 
 #include "stdafx.h"
 #include "stdio.h"
