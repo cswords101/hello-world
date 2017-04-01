@@ -28,7 +28,7 @@ int main()
 
 	fptr =  fopen( "c:\\users\\o_molloy\\numbers.txt", "r" );
 
-	i = 1;
+	i = 0;
 
 	fscanf(fptr, "%s\t%lf\n", IDs[i], &balances[i]);
 	printf("%s\t%10.2lf\n", IDs[i], balances[i]);
